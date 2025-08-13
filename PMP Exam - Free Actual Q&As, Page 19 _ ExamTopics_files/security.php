@@ -1,0 +1,2 @@
+document.write('<script type="text/javascript">  const popup = new Popup({});    popup.open("#blockPopup");  </script>');
+document.write('<script type="text/javascript">  	document.getElementById("sec1").innerHTML = 22;  	document.getElementById("sec2").innerHTML = 7;  	document.getElementById("sec3").innerHTML = 22;  	</script>');
